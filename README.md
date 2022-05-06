@@ -1,5 +1,7 @@
 # Getting Started
 
+Modelar e desenvolver uma API REST usando Java e Spring Boot. Santander Dev Week da DIO (Digital Innovation One)
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
